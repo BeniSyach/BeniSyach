@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/images/person.ico"  align="center" height="50"/>
+</p>
+
 ## Hi 👋, I'm Beni
 [![Gmail Badge](https://img.shields.io/badge/-benisyach32@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:benisyach32@gmail.com)](mailto:benisyach320@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-benisyach-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beni-syach-setiawan-ketaren-5ab25b168/)]([https://www.linkedin.com/in/benisyach32/](https://www.linkedin.com/in/beni-syach-setiawan-ketaren-5ab25b168/)) [![Github Badge](https://img.shields.io/badge/-benisyach-grey?style=flat&logo=github&logoColor=white&link=https://github.com/benisyach32/)](https://www.github.com/benisyach/) <p align='left'> Hi, I'm beni and I'm a Full Stack Web Developer Programmer, I graduated with a diploma at the Medan State Polytechnic majoring in informatics management
