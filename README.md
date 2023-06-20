@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/images/person.ico"  align="center" height="50"/>
+<img src="https://github.com/BeniSyach/BeniSyach/blob/main/person.ico"  align="center" height="50"/>
 </p>
 
 ## Hi 👋, I'm Beni
