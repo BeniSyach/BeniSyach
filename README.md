@@ -8,7 +8,7 @@
 
 Previously, I worked at the Information and Communication Service in Indonesia and had experience working in various fields of computer science. I always try to learn new technologies to satisfy my curiosity and improve my skills. My passion and motivation when developing any project is the impact it has on humanity. I love to work on projects which make a difference in society and will always be open to such oppurtunities!</p><p align='left'> You can view my resume <a href='https://github.com/BeniSyach' target=_blank><u>here</u>.</a></p>
 - 🔭 Focusing on the business building, interface and experience design, web development.
-  - Using Figma, HTML, CSS, Tailwind CSS, JavaScript, PHP, Laravel, Codeigniter, TypeScript, Node.js, React, Remix, Next.js, Vite, Redux, Express, Prisma ORM, PostgreSQL, MySQL/MariaDB, MongoDB, Oracle, Redis, REST API, GraphQL, Vercel, Netlify, Google Cloud Platform (GCP), Amazon Web Services (AWS), and other modern stack.
+  - Using Figma, HTML, CSS, Tailwind CSS, JavaScript, PHP, Laravel, Codeigniter, TypeScript, Node.js, React, Remix, Next.js, Vite, Redux, Express, Prisma ORM, PostgreSQL, MySQL/MariaDB, MongoDB, Oracle, Redis, REST API, GraphQL, Vercel, Netlify, Google Cloud Platform (GCP), Amazon Web Services (AWS).
 
 
 
